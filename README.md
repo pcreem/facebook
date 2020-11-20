@@ -1,4 +1,4 @@
-# facebook-clone
+# facebook-mini-clone
 ![Demo Image.](https://i.ibb.co/7rvFK1T/facebook.jpg)
 
 ## Demo
